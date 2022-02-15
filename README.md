@@ -1,8 +1,3 @@
-[![obsolete JetBrains project](https://jb.gg/badges/obsolete-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-
-### This project is obsolete.
-### For the last version of Koans, check [the course](https://www.jetbrains.com/help/education/learner-start-guide.html?section=Kotlin%20Koans) in [the EduTools plugin](https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=IntelliJ%20IDEA) or [online version](https://play.kotlinlang.org/koans/overview).
-### The task content can be found at https://github.com/Kotlin/kotlin-koans-edu.
 
 Kotlin Koans
 ===========
@@ -77,13 +72,3 @@ The `resolutions` branch contains all the solutions.
 It's a good idea to check the proposed solution after completing each task.
 Open the file with your solution, call the `Compare with branch...` action and choose the `resolutions` branch.   
 You can find [here](https://www.jetbrains.com/help/idea/navigating-to-action.html) how to call an action.
-
-
-#### Other ways to solve Koans
-
-You can solve the similar tasks using Educational Plugin or in the browser:
-
-- EduTools Plugin https://www.jetbrains.com/help/education/learner-start-guide.html?section=Kotlin%20Koans
-- online version of koans https://try.kotl.in
-
-The koans tasks for web-demo and educational plugin can be found here: https://github.com/Kotlin/kotlin-koans-edu
